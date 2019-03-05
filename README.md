@@ -1,4 +1,4 @@
-# Apache-Configuration
+# Apache-CGI-Configuration
 configure apache cgi for Perl Python and C On Ubuntu
 
 Please visit the following link:
